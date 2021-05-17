@@ -19,19 +19,14 @@ export default function About({data}) {
         <HeadingXL>About</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-          Building mr concerns servants in he outlived am breeding. He so lain
-          good miss when sell some at if. Told hand so an rich gave next. How
-          doubt yet again see son smart. While mirth large of on front. Ye he
-          greater related adapted proceed entered an. Through it examine express
-          promise no. Past add size game cold girl off how old.
-          <br />
-          <br />
-          Bringing so sociable felicity supplied mr. September suspicion far him
-          two acuteness perfectly. Covered as an examine so regular of. Ye
-          astonished friendship remarkably no. Window admire matter praise you
-          bed whence. Delivered ye sportsmen zealously arranging frankness
-          estimable as. Nay any article enabled musical shyness yet sixteen yet
-          blushes. Entire its the did figure wonder off.
+          Simona Cotin is a web developer with a passion for teaching. She
+          spends most of her time tinkering with JavaScript in the cloud and
+          sharing her experience with other developers at community events like
+          meetups and conferences or online. As a Cloud Developer Advocate,
+          Simona engages with the web community to help create a great developer
+          experience with Azure. She loves shipping code to production and has
+          built network data analytics platforms using Angular, Typescript,
+          React, and Node.js.
         </TextBody>
         <Button href="mailto:your&#64;email.com">Get in touch</Button>
       </Layout>
